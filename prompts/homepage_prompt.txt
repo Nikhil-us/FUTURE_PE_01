@@ -1,0 +1,13 @@
+You are a professional website copywriter.
+Create homepage website copy for a local business.
+Business Name: Urban Glow Unisex Salon
+Location: Bangalore
+Target Audience: Men and women aged 18–45
+Tone: Friendly, modern, professional
+Include:
+1. Hero headline
+2. Subheadline
+3. Value proposition
+4. 3 key benefits
+5. Strong call-to-action
+Keep the content simple, persuasive, and website-ready.
