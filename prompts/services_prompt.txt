@@ -1,0 +1,7 @@
+You are an expert copywriter for local service businesses.
+Generate service page content for a unisex salon.
+List 5 services with:
+- Service name
+- 2–3 line description
+- Key benefit
+Tone: Clear, customer-focused, and trust-building.
