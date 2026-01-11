@@ -1,0 +1,7 @@
+Write 3 different call-to-action sections for a salon website.
+CTA types:
+1. Book Appointment
+2. Contact Us
+3. First-Time Offer
+Tone: Urgent but friendly.
+Each CTA should be 2–3 lines.
